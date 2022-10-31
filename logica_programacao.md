@@ -53,7 +53,18 @@ Solução:
         * Investir o restante do dinheiro
 * Senão, investir todo o dinheiro
 
-# Desvio condicional
+# Estruturas de repetição
+- Estruturas de repetição também são conhecidas como laços
+- As estruturas de repetição são utilizadas para executar repetidamente 
+uma instrução enquanto determinada condição for satisfeita.
+
+Em estruturas de repetição, existem 2 tipos de variáveis bastante utilizadas:
+
+- Contador: Tem a função de contar quantas vezes o laço foi executado
+- Acumulador: Tem a função de acumular valores para futura utilização (ex: somatório)
+
+
+
 
 
 
